@@ -15,6 +15,7 @@ He realizado unos cuantos proyectos 3D a lo largo de estas clases, como el famos
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Screenshot%202021-12-01%20at%2013-05-14%20christian_llavero%20Tinkercad.png)
 
 Aquí está el símbolo que mencionaba antes. Ya que todavía no soy un experto en 3D, lo he copiado de [aquí](https://www.thingiverse.com/thing:59886). Ya que lo quería como llavero, le hice un agujero 2 cm de diámetro en la parte inferior izquierda. 
+
 Tiene 60 mm de longitud, 22,42 mm de ancho y 1,89 mm de altura.
 
 
@@ -24,6 +25,7 @@ Tiene 60 mm de longitud, 22,42 mm de ancho y 1,89 mm de altura.
 
 
 Y está es la pluma de mi personaje favorito de League of Legends que comenté antes, Rakan. En este caso vectorizé en un mapa de bits [esta imagen](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/rakan%20feather.jpeg) y obtuvé este resultado. Me hubiera gustado que hubiera mantenido los colores característicos de esta, pero no pudo ser. 
+
 Tiene 60 mm de longitud, 22,50 mm de ancho y 2,5 mm de altura.
 
 
@@ -32,5 +34,6 @@ Tiene 60 mm de longitud, 22,50 mm de ancho y 2,5 mm de altura.
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Screenshot%202021-12-01%20at%2013-05-53%20Pyke%20Arma%20Imprimir%20Tinkercad.png)
 
 Y por última, de momento, se encuentra el arma de otro personaje de League of Legends que me encanta, Pyke. Como en el caso anterior con el símbolo de Batman, encontré esta arma [aquí](https://www.thingiverse.com/thing:4512780). Ya que lo quiero como llavero, le he hecho un agujero de 2 mm de diámetro en la parte superior en la que se sujeta el arpón. Y de nuevo, como en el caso de la pluma, me hubiera gustado que hubiese tenido los colores originales. 
+
 Tiene 60 mm de longitud, 12 de ancho y 4 mm de altura.
 
