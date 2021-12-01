@@ -14,4 +14,4 @@ He realizado unos cuantos proyectos 3D a lo largo de estas clases, como el famos
 
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Screenshot%202021-12-01%20at%2013-05-14%20christian_llavero%20Tinkercad.png)
 
-Aquí está el símbolo que mencionaba antes. Ya que todavía no soy un experto en 3D, lo he copiado de [aquí](https://www.thingiverse.com/thing:59886). Ya que lo quera como llavero, le hice un agujero 2 cm de diámetro en la parte inferior izquierda. Tiene 60 mm de longitud, 22,42 mm de ancho y 1,89 mm de altura.
+Aquí está el símbolo que mencionaba antes. Ya que todavía no soy un experto en 3D, lo he copiado de [aquí](https://www.thingiverse.com/thing:59886). Ya que lo quería como llavero, le hice un agujero 2 cm de diámetro en la parte inferior izquierda. Tiene 60 mm de longitud, 22,42 mm de ancho y 1,89 mm de altura.
