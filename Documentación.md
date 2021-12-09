@@ -37,3 +37,12 @@ Y por última, de momento, se encuentra el arma de otro personaje de League of L
 
 Tiene 60 mm de longitud, 12 de ancho y 4 mm de altura.
 
+                                     9 de Diciembre de 2021
+                                     
+ En el día hemos realizado la famosa Torre Eiffel siguiendo los pasos de este [video](https://www.youtube.com/watch?v=LOKpUSnjHao). 
+ 
+ E aquí el resultado:
+ 
+ ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Torre%20eiffel%20tinkercad.png)
+ 
+ 
