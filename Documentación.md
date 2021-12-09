@@ -39,7 +39,7 @@ Tiene 60 mm de longitud, 12 de ancho y 4 mm de altura.
 
                                      9 de Diciembre de 2021
                                      
- En el día hemos "construido" en Tinkercad la famosa Torre Eiffel siguiendo los pasos de este [vídeo](https://www.youtube.com/watch?v=LOKpUSnjHao). 
+ En el día de hoy hemos "construido" en Tinkercad la famosa Torre Eiffel siguiendo los pasos de este [vídeo](https://www.youtube.com/watch?v=LOKpUSnjHao). 
  
  E aquí el resultado:
  
