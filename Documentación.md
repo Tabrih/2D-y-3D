@@ -1,5 +1,5 @@
 
-                                                      1 de Diciembre de 2021
+                                                     1 de Diciembre de 2021
    
 Tienes mayor calidad con 0,1 pero tarda más en hacerse. 
 
