@@ -10,7 +10,7 @@ Cuando una pieza es muy plana o es un material comprimido por si solo se crea un
 # Proyectos
 
 
-He realizado unos cuantos proyectos 3D a lo largo de estas clases, como el famoso símbolo de Batman, la pluma de unos de mis personajes favoritos de League of Legends o el arma de otro personaje del mismo juego.
+He realizado unos cuantos proyectos 3D a lo largo de estas clases, como el famoso símbolo de Batman, la pluma de unos de mis personajes favoritos de League of Legends y el arma de otro personaje del mismo juego o más...
 
 
 # Símbolo de Batman
