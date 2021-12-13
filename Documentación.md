@@ -11,9 +11,20 @@ Cuando una pieza es muy plana o es un material comprimido por si solo se crea un
 
 
 He realizado unos cuantos proyectos 3D a lo largo de estas clases, como el famoso símbolo de Batman, la pluma de unos de mis personajes favoritos de League of Legends y el arma de otro personaje del mismo juego o más...
+ 
+Aquí estan todos por si los queréis ver uno a uno:
 
+[]()
 
-# Símbolo de Batman
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+## Símbolo de Batman
 
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Screenshot%202021-12-01%20at%2013-05-14%20christian_llavero%20Tinkercad.png)
 
@@ -22,7 +33,7 @@ Aquí está el símbolo que mencionaba antes. Ya que todavía no soy un experto 
 Tiene 60 mm de longitud, 22,42 mm de ancho y 1,89 mm de altura.
 
 
-# Pluma de Rakan
+## Pluma de Rakan
 
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Screenshot%202021-12-01%20at%2013-05-42%20Pluma%20de%20Rakan%20Tinkercad.png)
 
@@ -32,7 +43,7 @@ Y está es la pluma de mi personaje favorito de League of Legends que comenté a
 Tiene 60 mm de longitud, 22,50 mm de ancho y 2,5 mm de altura.
 
 
-# Arpón de Pyke
+## Arpón de Pyke
 
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Screenshot%202021-12-01%20at%2013-05-53%20Pyke%20Arma%20Imprimir%20Tinkercad.png)
 
@@ -48,7 +59,7 @@ Tiene 60 mm de longitud, 12 de ancho y 4 mm de altura.
  
  ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Torre%20eiffel%20tinkercad.png)
  
- # Canción de Spotify
+ ## Canción de Spotify
  
 Otro de los proyectos que hemos hecho es pasar un código de una canción de Spotify a Inkscape, en mi caso la canción que yo he escogido se títula Privilege del artista The Weeknd.
 
