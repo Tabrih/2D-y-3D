@@ -51,7 +51,7 @@ Y por última, de momento, se encuentra el arma de otro personaje de League of L
 
 Tiene 60 mm de longitud, 12 de ancho y 4 mm de altura.
 
-                                       9 de Diciembre de 2021
+                                                  9 de Diciembre de 2021
                                      
  En el día de hoy hemos "construido" en Tinkercad la famosa Torre Eiffel siguiendo los pasos de este [vídeo](https://www.youtube.com/watch?v=LOKpUSnjHao). 
  
@@ -66,7 +66,7 @@ Otro de los proyectos que hemos hecho es pasar un código de una canción de Spo
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Canci%C3%B3n%20Inkscape.png)
  
  
-                                      13 de Diciembre de 2021
+                                                 13 de Diciembre de 2021
                                       
 ## Toy Brick
 
