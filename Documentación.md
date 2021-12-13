@@ -51,5 +51,6 @@ Tiene 60 mm de longitud, 12 de ancho y 4 mm de altura.
  # Canción de Spotify
  
 Otro de los proyectos que hemos hecho es pasar un código de una canción de Spotify a Inkscape, en mi caso la canción que yo he escogido se títula Privilege del artista The Weeknd.
- 
+
+![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Canci%C3%B3n%20Inkscape.png)
  
