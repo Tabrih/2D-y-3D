@@ -76,4 +76,6 @@ Y aquí el resultado:
 
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Toy%20Brick%20Tinkercad.png)
 
+Las medidas se encuentran en el vídeo.
+
 Si queréis crear también uno podéis pasaros por el enlace que os he dejado hace nada.
