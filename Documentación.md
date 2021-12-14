@@ -70,7 +70,7 @@ Otro de los proyectos que hemos hecho es pasar un código de una canción de Spo
                                       
 ## Toy Brick
 
-El proyecto que hemos realizado hoy se llama Toy brick, y se basa en recrear un ladrillo de juguete en Inkscape gracias a este [vídeo](https://www.youtube.com/watch?v=H-sqDzjrhHw). 
+El proyecto que hemos realizado hoy se llama Toy brick, y se basa en recrear un ladrillo de juguete en Tinkercad gracias a este [vídeo](https://www.youtube.com/watch?v=H-sqDzjrhHw). 
 
 Y aquí el resultado:
 
