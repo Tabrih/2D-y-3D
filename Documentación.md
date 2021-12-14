@@ -24,6 +24,8 @@ Aquí estan todos por si los queréis ver uno a uno:
 
 [Toy Brick](#toy-brick)
 
+[Figuras geométricas](#figuras-geométricas)
+
 ## Símbolo de Batman
 
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Screenshot%202021-12-01%20at%2013-05-14%20christian_llavero%20Tinkercad.png)
