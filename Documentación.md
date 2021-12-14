@@ -80,7 +80,7 @@ Las medidas se encuentran en el vídeo.
 
 Si queréis crear también uno podéis pasaros por el enlace que os he dejado hace nada.
 
-## Figuras geométrica
+## Figuras geométricas
 
 También hemos hecho un par de figuras que nos ha puesto el profesor en el proyector, unas figuras bastante raras pero fáciles de hacer.
 
