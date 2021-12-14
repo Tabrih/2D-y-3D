@@ -79,3 +79,13 @@ Y aquí el resultado:
 Las medidas se encuentran en el vídeo.
 
 Si queréis crear también uno podéis pasaros por el enlace que os he dejado hace nada.
+
+## Figuras geométrica
+
+También hemos hecho un par de figuras que nos ha puesto el profesor en el proyector, unas figuras bastante raras pero fáciles de hacer.
+
+Aquí dichas figuras: 
+
+![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Figura%201.png)
+
+![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/FIgura%202.png)
