@@ -1,7 +1,7 @@
                                                              13 de Enero de 2022
 
 
-Están son algunas pruebas que hemos hechos en Inkscape:
+Están son algunas pruebas que hemos hechos en Inkscape en el día de hoy:
 
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Inkscape%20Leo%201.png)
 
