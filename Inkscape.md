@@ -38,3 +38,7 @@ Tercera Pieza:
 ![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Pieza%203%20Onshape.png)
 
 
+Cuarta Pieza:
+
+![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Pieza%204.png)
+
